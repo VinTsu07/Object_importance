@@ -6,6 +6,8 @@ The data was obtained from https://public.opendatasoft.com/explore/dataset/airbn
 and downloaded as a csv file. The analysis was performed on a Linux GPU compute server with 192GB memory and 40 physical cores at 3.1 GHz provided by the Humboldt Lab for Empirical
 and Quantitative Research. Use the Code_Thesis_Vincent_Karpf.ipynb file to reproduce the results.
 
+The paper is currently under review and the link will given here once it has been published on the Humboldt Universität zu Berlin website.
+
 # Abstract
 
 The age of big data has given rise to high-dimensional datasets, opening up new opportunities

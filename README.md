@@ -7,7 +7,7 @@ and downloaded as a csv file. The analysis was performed on a Linux GPU compute 
 
 Use the Code_Object_Importance.ipynb file to reproduce the results.
 
-The paper is currently under review and the link will given here once it has been published on the Humboldt Universität zu Berlin website.
+The paper is currently under review. The link will be provided here once it has been published.
 
 # Abstract
 

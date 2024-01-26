@@ -5,9 +5,9 @@ This project investigates the importance of Airbnb property images for the predi
 The data was obtained from https://public.opendatasoft.com/explore/dataset/airbnb-listings/information/?flg=en-us&disjunctive.host_verifications&disjunctive.amenities&disjunctive.features
 and downloaded as a csv file. The analysis was performed on a Linux GPU compute server with 192GB memory and 40 physical cores at 3.1 GHz provided by the Humboldt Lab for Empirical and Quantitative Research.
 
-Use the Code_Object_Importance.ipynb file to reproduce the results.
+Link to publication: https://edoc.hu-berlin.de/handle/18452/28791
 
-The paper is currently under review. The link will be provided here once it has been published.
+Use the Code_Object_Importance.ipynb file to reproduce the results.
 
 # Abstract
 
